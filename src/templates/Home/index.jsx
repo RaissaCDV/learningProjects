@@ -2,7 +2,7 @@ import "./style.css";
 import { Component } from "react";
 import { PostCard } from "../../components/PostCard";
 import { Button } from "../../components/Button";
-import { TextInput } from "../../components/TextInput";
+// import { TextInput } from "../../components/TextInput";
 
 class Home extends Component {
   state = {
